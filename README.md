@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Farooq07600&label=Profile%20views&color=0e75b6&style=flat" alt="Farooq07600" />
 </p>
 
-I am a **Class 8 student** and an aspiring **Cybersecurity Enthusiast**. I have a deep passion for learning web security, frontend development, and Python.
+I am a **Class 8 student** and an aspiring **"Cloud Security Specialist"**. I have a deep passion for learning web security, frontend development, and Python.
 
 ---
 
