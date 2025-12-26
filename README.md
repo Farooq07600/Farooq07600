@@ -36,6 +36,5 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 * 📧 Email: [aslamrahimoon13@gmail.com](mailto:aslamrahimoon13@gmail.com)
 * 📍 Location: Karachi, Pakistan
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical" alt="Farooq's Stats" />
-</p>
+![Farooq's Stats](https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical)
+​![Farooq's Stats](https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical)
