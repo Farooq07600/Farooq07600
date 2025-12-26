@@ -21,7 +21,7 @@ I am a **Class 8 student** and an aspiring **"Cloud Security Specialist"**. I ha
 ### 🚀 Featured Projects
 
 * **[Live To-do List](https://farooq07600.github.io/To-do-list/)**: My first web application with LocalStorage support.
-* **[Stopwatch](https://github.com/Farooq07600/Stopwatch)**: A precision time-tracking tool built with JavaScript.
+* [**Stopwatch**](https://farooq07600.github.io/Stopwatch/): A precision time-tracking tool built with JavaScript.
 
 ---
 
@@ -37,6 +37,8 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 * 📍 Location: Karachi, Pakistan
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical&count_private=true" />
 </p>
+
 
