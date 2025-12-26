@@ -38,6 +38,7 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 * 📍 **Location:** [Karachi, Pakistan](https://www.google.com/maps/search/Karachi,+Pakistan)
 
 <p align="right">
-  <img src="Farooq.jpg" width="120" style="border-radius: 50%; border: 2px solid #0e75b6;">
-</
+  <img src="Farooq.jpg" width="180" style="border-radius: 50%; border: 5px solid #00D1FF; box-shadow: 0px 0px 15px #00D1FF;">
+</p>
+
 
