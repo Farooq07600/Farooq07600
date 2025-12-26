@@ -37,6 +37,9 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 * 📧 **Email:** [aslamrahimoon13@gmail.com](mailto:aslamrahimoon13@gmail.com)
 * 📍 **Location:** [Karachi, Pakistan](https://www.google.com/maps/search/Karachi,+Pakistan)
 
+<p align="right">
+  <img src="Farooq.jpg" width="150" style="border-radius: 50%;">
+</p>
 
 <p align="center">
 <p align="center">
