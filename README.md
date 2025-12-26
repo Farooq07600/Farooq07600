@@ -37,4 +37,4 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 * 📍 Location: Karachi, Pakistan
 
 ![Farooq's Stats](https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical)
-​![Farooq's Stats](https://github-readme-stats.vercel.app/api?username=Farooq07600&show_icons=true&theme=radical)
+
