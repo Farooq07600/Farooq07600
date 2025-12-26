@@ -34,8 +34,9 @@ My ultimate goal is to become an **Ethical Hacker** to help secure the internet 
 
 ### 📫 Connect with Me
 
-* 📧 Email: [aslamrahimoon13@gmail.com](mailto:aslamrahimoon13@gmail.com)
-* 📍 Location: Karachi, Pakistan
+* 📧 **Email:** [aslamrahimoon13@gmail.com](mailto:aslamrahimoon13@gmail.com)
+* 📍 **Location:** [Karachi, Pakistan](https://www.google.com/maps/search/Karachi,+Pakistan)
+
 
 <p align="center">
 <p align="center">
