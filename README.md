@@ -20,6 +20,7 @@ I am a **Class 8 student** and an aspiring **"Cloud Security Specialist"**. I ha
 
 ### 🚀 Featured Projects
 
+* [**Quiz Game**](https://farooq07600.github.io/Quiz-game/)
 * **[Live To-do List](https://farooq07600.github.io/To-do-list/)**: My first web application with LocalStorage support.
 * [**Stopwatch**](https://farooq07600.github.io/Stopwatch/): A precision time-tracking tool built with JavaScript.
 
